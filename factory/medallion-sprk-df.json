@@ -1,0 +1,9 @@
+{
+	"name": "medallion-sprk-df",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88e8e879-ddb8-4405-ab2a-d2f652e9eba6",
+		"tenantId": "6fffbb90-a3aa-46e6-8975-1594dc99cdfd"
+	}
+}
